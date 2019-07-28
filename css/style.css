@@ -1,0 +1,130 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/*<!--header part start-->*/
+header {
+    background-color: #fff;
+    padding: 35px 0px;  
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    margin-left: 12px;
+    font-size: 13px;
+    color: #989898;
+}
+/*<!--header part end-->*/
+
+/*<!--bg part start-->*/
+.bg{
+    background-size: cover;
+    background: url(../img/bg.png);
+}
+.back{
+background-color: #8080804a;
+}
+.bg h1{
+       color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin-top: 80px;
+
+}
+.bg button{
+    padding: 10px 20px;
+    border: none;
+    background-color: #99c50a;
+    color: #fff;
+    border-radius: 25px;
+    margin-left: 350px;
+    margin-top: 40px;
+    margin-bottom: 150px;
+}
+.bg button:hover{
+    background-color: #99c50a;
+    color: black;
+}
+/*<!--bg part endt-->*/
+
+/*<!--next section start-->*/
+.next{
+    padding: 100px 0px;
+
+}
+.cclo{
+    margin: 0 auto;
+    display: block;
+}
+.next h2{
+    color: #515151;
+    text-align: center;
+    margin: 45px 0px;
+}
+.next p{
+    text-align: center;
+    color: gray;    
+}
+/*<!--next section end-->*/
+
+/*<!--icon section start-->*/
+.immg{
+    margin-left: 75px;
+}
+.first{
+    background-color: #e2f8ff;
+}
+.h2o{
+    margin-left: 230px;
+    margin-top: -118px;
+}
+.ppr{
+    margin-left: 230px;    
+}
+.scnd{
+    background-color: #f5f9eb;
+}
+.btn-one{
+    padding: 10px 20px;
+    border: none;
+    background-color: #26a6d1;
+    color: #fff;
+    border-radius: 14px;
+    margin-left: 230px;
+    margin-top: 18px;
+    margin-bottom: 150px;
+}
+.btn-two{
+    padding: 10px 20px;
+    border: none;
+    background-color: #add136;
+    color: #fff;
+    border-radius: 14px;
+    margin-left: 230px;
+    margin-top: 18px;
+    margin-bottom: 150px;
+}
+/*<!--icon section end-->*/
+
+
+.to{
+    margin-left: 30px;
+}
+.ppo{
+
+}
+.btn-three{
+    padding: 10px 20px;
+    border: none;
+    background-color: #add136;
+    color: #fff;
+    border-radius: 14px;
+    margin-left: 230px;
+    margin-top: 18px;
+    margin-bottom: 150px;
+}
